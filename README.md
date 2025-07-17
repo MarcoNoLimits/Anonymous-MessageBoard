@@ -1,3 +1,3 @@
 # Anonymous Message Board
 
-This is the boilerplate for the Anonymous Message Board project. Instructions for completing your project can be found at https://www.freecodecamp.org/learn/information-security/information-security-projects/anonymous-message-board
+This is the Anonymous Message Board project project I made to following the nstructions for completing https://www.freecodecamp.org/learn/information-security/information-security-projects/anonymous-message-board
